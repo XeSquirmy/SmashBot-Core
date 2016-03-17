@@ -1,4 +1,4 @@
-#ifndef RECOVER_H
+/*#ifndef RECOVER_H
 #define RECOVER_H
 
 #include "Tactic.h"
@@ -15,4 +15,4 @@ public:
 
 };
 
-#endif
+#endif*/

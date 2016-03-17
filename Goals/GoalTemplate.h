@@ -1,4 +1,4 @@
-#ifndef KILL_OPPONENT_H
+/*#ifndef KILL_OPPONENT_H
 #define KILL_OPPONENT_H
 
 #include "Goal.h"
@@ -15,4 +15,4 @@ public:
 
 };
 
-#endif
+#endif*/

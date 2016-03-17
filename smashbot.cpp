@@ -12,7 +12,6 @@
 #include <string>
 #include <time.h>
 
-#include "Goals/KillOpponent.h"
 #include "Goals/NavigateMenu.h"
 
 #include "Util/GameState.h"
@@ -185,14 +184,14 @@ int main(int argc, char *argv[])
             {
                 if(goal == NULL )
                 {
-                    goal = new KillOpponent();
+                //    goal = new KillOpponent();
                 }
-                if(typeid(*goal) != typeid(KillOpponent))
+                /*if(typeid(*goal) != typeid(KillOpponent))
                 {
                     delete goal;
                     goal = new KillOpponent();
                 }
-                goal->Strategize();
+                goal->Strategize();*/
             }
             //If we're in a menu, then let's navigate the menu
             else if(state->m_memory->menu_state == CHARACTER_SELECT ||

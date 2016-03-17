@@ -1,4 +1,4 @@
-#ifndef SANDBAG_H
+/*#ifndef SANDBAG_H
 #define SANDBAG_H
 
 #include "Strategy.h"
@@ -32,4 +32,4 @@ private:
 
 };
 
-#endif
+#endif*/

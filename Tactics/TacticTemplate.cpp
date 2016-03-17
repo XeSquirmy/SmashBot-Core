@@ -1,4 +1,4 @@
-#include <typeinfo>
+/*#include <typeinfo>
 #include <math.h>
 #include <cmath>
 
@@ -59,4 +59,4 @@ void Recover::DetermineChain()
     CreateChain(Nothing);
     m_chain->PressButtons();
     return;
-}
+}*/

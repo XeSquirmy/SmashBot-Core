@@ -1,4 +1,4 @@
-#ifndef SHINEUPSMASH_H
+/*#ifndef SHINEUPSMASH_H
 #define SHINEUPSMASH_H
 
 #include "Chain.h"
@@ -18,4 +18,4 @@ public:
 
 };
 
-#endif
+#endif*/

@@ -1,4 +1,4 @@
-#include <cmath>
+/*#include <cmath>
 #include <math.h>
 
 #include "Sandbag.h"
@@ -233,4 +233,4 @@ void Sandbag::DetermineTactic()
     CreateTactic(Wait);
     m_tactic->DetermineChain();
     return;
-}
+}*/

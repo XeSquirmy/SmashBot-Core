@@ -1,4 +1,4 @@
-#include "ShineUpsmash.h"
+/*#include "ShineUpsmash.h"
 
 void ShineUpsmash::PressButtons()
 {
@@ -56,4 +56,4 @@ ShineUpsmash::ShineUpsmash()
 
 ShineUpsmash::~ShineUpsmash()
 {
-}
+}*/

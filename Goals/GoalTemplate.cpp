@@ -1,5 +1,4 @@
-#include "KillOpponent.h"
-#include "../Strategies/Bait.h"
+/*#include "GoalTemplate.h"
 #include "../Strategies/Sandbag.h"
 
 KillOpponent::KillOpponent()
@@ -26,4 +25,4 @@ void KillOpponent::Strategize()
         m_strategy->DetermineTactic();
     }
 
-}
+}*/
